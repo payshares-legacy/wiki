@@ -134,3 +134,5 @@ naKF9vP6PmUDudBVkXHfr3cRScQideaMsFa9crvntk7x9VYPUTr SDF1
 #[ssl_verify]
 #0
 ```
+
+Set userpath to the correct path in the above reference example
