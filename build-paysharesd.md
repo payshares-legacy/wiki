@@ -11,7 +11,7 @@ sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.8 40 --slave 
 sudo update-alternatives --config gcc
 wget https://download.libsodium.org/libsodium/releases/LATEST.tar.gz
 tar xzf LATEST.tar.gz
-cd libsodium-0.6.1/
+cd libsodium*
 ./configure
 make && make check && sudo make install
 cd ..
