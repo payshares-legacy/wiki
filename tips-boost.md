@@ -15,4 +15,6 @@ Edit SConstruct and specify the correct location of the boost install:
 BOOST_HOME = '/opt/boost_1_55_0'
 ```
 
+Add --static flag around line 362
+
 Voila!
