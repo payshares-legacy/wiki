@@ -1,1 +1,1 @@
-# The Unofficial Payshares Wiki
+# The Official Payshares Wiki
