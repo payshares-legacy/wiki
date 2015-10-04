@@ -99,10 +99,10 @@ pool.ntp.org
 # Where to find some other servers speaking the Payshares protocol.
 #
 [ips]
-one.validator.payshares.co
+one.vld.payshares.co
 
 [validators]
-naKF9vP6PmUDudBVkXHfr3cRScQideaMsFa9crvntk7x9VYPUTr SDF1
+naLkDUxjwnGDfwgRW82MtzzctajnJq8YKsdmMXRTus8FRvZ3ABr VLD0
 
 # Ditto.
 [validation_quorum]
